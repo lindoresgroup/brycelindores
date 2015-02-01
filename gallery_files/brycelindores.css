@@ -1,0 +1,106 @@
+/* Standardize child theme styling */
+.builder-module.builder-module-top,
+.builder-module.builder-module-single {
+	margin-top: 0;
+}
+.builder-module.builder-module-bottom,
+.builder-module.builder-module-single {
+	margin-bottom: 0;
+}
+.builder-module-sidebar {
+	padding: 0;
+}
+.post {
+	margin-left: 0;
+	margin-right: 0;
+}
+#comments {
+	margin-left: 0;
+	margin-right: 0;
+}
+#comments ol.commentlist {
+	background: transparent;
+}
+.builder-module-sidebar {
+	background: transparent;
+}
+
+.builder-module .left .builder-module-element,
+.builder-module .middle .builder-module-element {
+	margin-right: 0;
+}
+.builder-module .middle .builder-module-element,
+.builder-module .right .builder-module-element {
+	margin-left: 0;
+}
+
+.builder-module-image .builder-module-element-outer-wrapper {
+	width: 100% !important;
+}
+.builder-module-image .builder-module-element img {
+	max-width: 100%;
+}
+
+.builder-module {
+	border-left: 0 !important;
+	border-right: 0 !important;
+}
+
+.site-title a:hover,
+.site-tagline a:hover {
+	font-size: inherit;
+}
+
+
+
+/* Style Manager generated css */
+#pb_slideshow_slider-1 .nivo-controlNav {
+	position: absolute;
+	left: 47%;
+	bottom: -30px;
+}
+#pb_slideshow_slider-1 .nivo-controlNav a {
+	position: relative;
+	z-index: 99;
+	cursor: pointer;
+	display: block;
+	width: 10px;
+	height: 10px;
+	text-indent: -9999px;
+	border: 0pt none;
+	margin-right: 3px;
+	float: left;
+}
+#pb_slideshow_slider-1 .nivo-controlNav a.active {
+	font-weight: bold;
+	background-position: -10px 0pt;
+}
+#pb_slideshow_slider-1.nivoSlider {
+	height: 560px;
+	margin-bottom: 10px;
+}
+.builder-module-navigation li a {
+	color: #FFFF0D;
+	background-color: transparent;
+}
+.builder-module-widget-bar .widget {
+	background-color: transparent;
+}
+.builder-module.builder-module-navigation {
+	background-color: transparent;
+}
+.nivo-directionNav a {
+	top: 205px;
+}
+.nivoSlider {
+	box-shadow: 0px 0px 0px #333333;
+}
+a.nivo-nextNav {
+	background-position: -30px 0pt;
+	right: 10px;
+}
+body {
+	background-image: url("http://dailyb2bdeal.com.au/wp-content/uploads/2012/03/background2.jpg");
+	background-repeat: repeat-x;
+	background-color: #FFFFFF;
+}
